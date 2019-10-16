@@ -1,3 +1,0 @@
-CREATE TABLE FOOBAR (
-  value VARCHAR(256),
-);
